@@ -1,10 +1,12 @@
-# Olá, eu sou Marcos Vinicius! 👋
+# Marcos Vinicius 💻
 
-Desenvolvedor apaixonado por tecnologia e código aberto.
+Desenvolvedor | Codificador | Solucionador de Problemas
 
-## Minhas Estatísticas
-![Stats do Marcos](https://github-readme-stats.vercel.app/api?username=marcosvcode&show_icons=true&theme=dracula)
-![Linguagens do Marcos](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvcode&layout=compact&theme=dracula)
+## Stats
+![Stats do Marcos](https://github-readme-stats.vercel.app/api?username=marcosvcode&show_icons=true&theme=midnight-purple&hide_border=true&title_color=ffffff&icon_color=bb2acf)
 
-## Minha Sequência
-![Streak do Marcos](https://streak-stats.demolab.com?user=marcosvcode&theme=dracula)
+## Linguagens
+![Linguagens do Marcos](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvcode&layout=compact&theme=midnight-purple&hide_border=true&title_color=ffffff)
+
+## Sequência
+![Streak do Marcos](https://streak-stats.demolab.com?user=marcosvcode&theme=dark&border=ffffff&ring=bb2acf&fire=bb2acf&currStreakLabel=ffffff)
